@@ -107,7 +107,7 @@
     float: left;
   }
   .work-title {
-    font-size: 15px;
+    font-size: 10px;
     margin-top: 25px;
   }
   .detail {
