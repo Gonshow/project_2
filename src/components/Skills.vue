@@ -73,4 +73,21 @@
     height: 50px;
     width: 50px;
 }
+
+@media screen and (max-width: 480px) {
+  .lang {
+    margin: 10px 0px;
+  }
+  .languages {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .lang-image {
+    height: 20px;
+  }
+  .lang-comment {
+    font-size: 13px;
+    margin: 0px;
+  }
+}
 </style>

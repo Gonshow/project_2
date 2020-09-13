@@ -36,4 +36,5 @@ margin-left: 5%;
     border-top: solid 1px #777777;
     transform: rotate(0.3deg);
 }
+
 </style>

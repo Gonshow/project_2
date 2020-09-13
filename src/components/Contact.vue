@@ -28,4 +28,14 @@
     -o-transform:rotateZ(15deg);
     transform:rotateZ(-25deg);
 }
+.link-icon:active {
+  opacity: 0.5;
+}
+@media screen and (max-width: 480px) {
+  .link img {
+    height: 50px;
+    width: auto;
+    margin-bottom: 20px;
+  }
+}
 </style>
