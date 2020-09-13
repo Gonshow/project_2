@@ -37,7 +37,6 @@
   </div>
 </template>
 <style>
-
 .works{
   list-style-type: none;
   padding-left: 0;
