@@ -123,6 +123,7 @@
     width: 25%;
   }
   .work2-title {
+    margin-left: 3px;
     font-size: 13px;
   }
   .work2-detail {
